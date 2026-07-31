@@ -1,64 +1,156 @@
-# This Is The Master Line 
-# I Insert A Table
-## I Insert A Table
+# Markdown Practice
+
+This document was created while learning GitHub Markdown and Git workflows.
+
+The purpose of this file is to practice formatting documentation using the most common Markdown syntax used by software engineers and technical documentation.
+
+---
+
+# Headings
+
+# Heading Level 1
+
+## Heading Level 2
+
+### Heading Level 3
+
+#### Heading Level 4
+
+##### Heading Level 5
+
+---
+
+# Tables
 
 | Column 1 | Column 2 |
-|----------|----------|
-| Row 1    | Row 2    |
-| Row 1    | Row 2    |
-| Row 1    | Row 2    |
+|-----------|----------|
+| Row 1 | Row 2 |
+| Row 1 | Row 2 |
+| Row 1 | Row 2 |
 
-## This Line Is for Scripting Styles
-1. Now I can have an Italic
-   *lets check if it comes out as Italic?*
-   _Lets Check If this One Also Is Italic_
+---
 
-2. Now we want a Bold Text
-   **Is this Bold enough?**
-   __Or This One is BOLD__
+# Italic Text
 
-Now we want to indicate something is removed by a line in the script
-~~This line has been removed~~
+*This text is italic using asterisks.*
 
-### This One Is for Lists
-**I want to create a list here**
+_This text is italic using underscores._
 
-1. This is the one
-2. This is the two
-3. This is the three
-4. This is the four
+---
 
-- I want to add the list
-- This list is my first attempt
-- I don’t like that I’m not moving fast enough now
-- I need to make sure it’s working
+# Bold Text
 
-CTRL + D is removing on VS, just to know we can select and do it
+**This text is bold using double asterisks.**
 
-**Nested List**
+__This text is bold using double underscores.__
+
+---
+
+# Strikethrough
+
+~~This line has been removed.~~
+
+---
+
+# Lists
+
+## Numbered List
+
+1. First item
+2. Second item
+3. Third item
+4. Fourth item
+
+## Bullet List
+
+- First bullet
+- Second bullet
+- Third bullet
+- Fourth bullet
+
+## Nested List
 
 Friends
-  - Arezoo
-  - Mikhak
-  - Roshanak
+
+- Arezoo
+- Mikhak
+- Roshanak
 
 Workers
-  - Jim
-  - Leonard
-  - Ben
 
-#### This One Is for Hyperlink and Image
-[My Favorite Site is X Recently](https://x.com/atoosabiglari)
+- Jim
+- Leonard
+- Ben
 
-![I taken This Image 3 Years Ago](Palo_Alto_Lake.jpg)
+---
 
-##### This Is a Blockquote
-> This is my first blockquote on the page
+# Helpful VS Code Shortcut
 
-##### This Is a Code Block
+> **Ctrl + D** selects the next occurrence of the current selection in VS Code. Keyboard shortcuts may vary depending on your operating system and editor configuration.
+
+---
+
+# Links and Images
+
+## Hyperlink
+
+[My X Profile](https://x.com/atoosabiglari)
+
+## Image
+
+![A photo I took in Palo Alto](assets/Palo_Alto_Lake.jpg)
+
+---
+
+# Blockquote
+
+> This is my first Markdown blockquote.
+
+---
+
+# Code Block
+
 ```html
-<h1>This is a practice to add this to git</h1>
-<p>This is a practice to add this to git</p>
+<h1>This is a practice to add this to Git</h1>
+<p>This is a practice to add this to Git</p>
+```
+
+---
+
+# Skills Practiced
+
+- Markdown syntax
+- Headings
+- Tables
+- Italic and bold text
+- Strikethrough
+- Numbered lists
+- Bullet lists
+- Nested lists
+- Hyperlinks
+- Images
+- Blockquotes
+- Code blocks
+
+---
+
+# Project Notes
+
+This document is part of my technical portfolio and represents my early hands-on practice with GitHub Markdown.
+
+Rather than removing my first learning exercises, I have chosen to preserve and improve them to demonstrate continuous learning and professional growth throughout my journey toward AI Engineering, Machine Learning, and Technical Program Management.
+
+---
+
+**Author**
+
+**Atoosa Biglari**
+
+Technical Program Manager | AI & Machine Learning Portfolio
+
+San Francisco Bay Area
+
+2026
 
 
 
